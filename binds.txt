@@ -1,0 +1,13 @@
+// Just copy and paste these into the developer console. If it is not activated, do so in the game settings.
+bind "kp_home" " buy flashbang;"
+bind "kp_uparrow8" " buy hegrenade;"
+bind "kp_pgup" " buy smokegrenade;"
+bind "kp_leftarrow" "buy ssg08;"
+bind "kp_5" "buy ak47; buy m4a1;"
+bind "kp_rightarrow" "buy famas; buy galilar;"
+bind "kp_end" "buy scar20; buy g3sg1;"
+bind "kp_downarrow" "buy deagle;"
+bind "kp_pgdn" "buy fiveseven; buy tec9;"
+bind "kp_ins" "buy p250;"
+bind "kp_del" "buy Taser;"
+bind "kp_plus" "buy nova;"
