@@ -1,4 +1,6 @@
 // Just copy and paste these into the developer console. If it is not activated, do so in the game settings.
+Num Pad Buys
+...
 bind "kp_home" " buy flashbang;"
 bind "kp_uparrow8" " buy hegrenade;"
 bind "kp_pgup" " buy smokegrenade;"
@@ -11,3 +13,4 @@ bind "kp_pgdn" "buy fiveseven; buy tec9;"
 bind "kp_ins" "buy p250;"
 bind "kp_del" "buy Taser;"
 bind "kp_plus" "buy nova;"
+...
